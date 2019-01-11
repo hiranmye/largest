@@ -1,3 +1,4 @@
+#hiran
 a = input()
 b = input()
 c = input()
@@ -7,4 +8,4 @@ elif (b > c):
    largest = b
 else:
    largest = c
-print (largest)
+ print (largest)
